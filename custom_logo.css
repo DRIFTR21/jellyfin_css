@@ -1,0 +1,20 @@
+/* 1. Login & Splash Page Logo */
+.imgLogoIcon {
+    content: url("https://cdn.jsdelivr.net/gh/DRIFTR21/logos@main/logo") !important;
+}
+
+/* 2. Top Header Bar Logo (Main Interface) */
+.headerLogo, .viewMenuBar .viewMenuBar-logo {
+    background-image: url("https://your-domain.com") !important;
+    content: url("https://your-domain.com") !important;
+}
+
+/* 3. Sidebar / Admin Drawer Logo (Mobile & Desktop Menu) */
+.adminDrawerLogo img, .mainDrawerLogo img {
+    content: url("https://your-domain.com") !important;
+}
+
+/* 4. Home Page Main Title Logo */
+.pageTitleWithLogo {
+    background-image: url("https://your-domain.com") !important;
+}

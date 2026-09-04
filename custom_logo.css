@@ -1,20 +1,20 @@
 /* 1. Login & Splash Page Logo */
 .imgLogoIcon {
-    content: url("https://imgur.com/P85UQxp") !important;
+    content: url("https://i.imgur.com/P85UQxp.png") !important;
 }
 
 /* 2. Top Header Bar Logo (Main Interface) */
 .headerLogo, .viewMenuBar .viewMenuBar-logo {
-    background-image: url("https://imgur.com/P85UQxp") !important;
-    content: url("https://imgur.com/P85UQxp") !important;
+    background-image: url("https://i.imgur.com/P85UQxp.png") !important;
+    content: url("https://i.imgur.com/P85UQxp.png") !important;
 }
 
 /* 3. Sidebar / Admin Drawer Logo (Mobile & Desktop Menu) */
 .adminDrawerLogo img, .mainDrawerLogo img {
-    content: url("https://imgur.com/P85UQxp") !important;
+    content: url("https://i.imgur.com/P85UQxp.png") !important;
 }
 
 /* 4. Home Page Main Title Logo */
 .pageTitleWithLogo {
-    background-image: url("https://imgur.com/P85UQxp") !important;
+    background-image: url("https://i.imgur.com/P85UQxp.png") !important;
 }

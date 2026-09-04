@@ -1,20 +1,20 @@
 /* 1. Login & Splash Page Logo */
 .imgLogoIcon {
-    content: url("https://cdn.jsdelivr.net/gh/DRIFTR21/logos@main/logo") !important;
+    content: url("https://cdn.jsdelivr.net/gh/DRIFTR21/logos@main/DriftrnetLogo.png") !important;
 }
 
 /* 2. Top Header Bar Logo (Main Interface) */
 .headerLogo, .viewMenuBar .viewMenuBar-logo {
-    background-image: url("https://your-domain.com") !important;
-    content: url("https://your-domain.com") !important;
+    background-image: url("https://cdn.jsdelivr.net/gh/DRIFTR21/logos@main/DriftrnetLogo.png") !important;
+    content: url("https://cdn.jsdelivr.net/gh/DRIFTR21/logos@main/DriftrnetLogo.png") !important;
 }
 
 /* 3. Sidebar / Admin Drawer Logo (Mobile & Desktop Menu) */
 .adminDrawerLogo img, .mainDrawerLogo img {
-    content: url("https://your-domain.com") !important;
+    content: url("https://cdn.jsdelivr.net/gh/DRIFTR21/logos@main/DriftrnetLogo.png") !important;
 }
 
 /* 4. Home Page Main Title Logo */
 .pageTitleWithLogo {
-    background-image: url("https://your-domain.com") !important;
+    background-image: url("https://cdn.jsdelivr.net/gh/DRIFTR21/logos@main/DriftrnetLogo.png") !important;
 }
